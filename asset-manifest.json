@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/pizza-carts/static/js/main.90689d70.chunk.js",
+    "main.js.map": "/pizza-carts/static/js/main.90689d70.chunk.js.map",
+    "runtime-main.js": "/pizza-carts/static/js/runtime-main.0bc70081.js",
+    "runtime-main.js.map": "/pizza-carts/static/js/runtime-main.0bc70081.js.map",
+    "static/js/2.ad3f3b4c.chunk.js": "/pizza-carts/static/js/2.ad3f3b4c.chunk.js",
+    "static/js/2.ad3f3b4c.chunk.js.map": "/pizza-carts/static/js/2.ad3f3b4c.chunk.js.map",
+    "index.html": "/pizza-carts/index.html",
+    "static/js/2.ad3f3b4c.chunk.js.LICENSE.txt": "/pizza-carts/static/js/2.ad3f3b4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bc70081.js",
+    "static/js/2.ad3f3b4c.chunk.js",
+    "static/js/main.90689d70.chunk.js"
+  ]
+}
